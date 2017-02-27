@@ -27,19 +27,19 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 ###免费的编程中文书籍索引：https://github.com/justjavac/free-programming-books-zh_CN
 ###程序员语言基础网站：http://www.runoob.com/
 ###Java源代码：   http://www.grepcode.com/
-###Android源码： http://source.android.com/
-###                http://androidxref.com/                
-###                http://github.com/                
-###                http://code.taobao.org/
+###Android源码：1.http://source.android.com/
+               2.http://androidxref.com/                
+               3.http://github.com/                
+               4.http://code.taobao.org/
 ###解决问题的网站：stackoverflow.com
 ###jar包下载网站：http://central.sonatype.org/
 ###GitHub平面UI网站：https://github.com/wasabeef/awesome-android-ui
 ###shareSDK：http://www.mob.com/#/
 ###AndroidTool镜像：http://www.androiddevtools.cn/
 ###plugin插件：http://plugins.jetbrains.com/
-###谷歌中国官方网站：https://developer.android.google.cn/index.html
-                   https://firebase.google.cn/
-                   https://developers.google.cn/
+###谷歌中国官方网站：1.https://developer.android.google.cn/index.html
+                  2.https://firebase.google.cn/
+                  3.https://developers.google.cn/
 ###谷歌开发者博客：http://developers.googleblog.cn/
 ###开源机器学习平台TensorFlow：https://www.tensorflow.org/
 
@@ -171,9 +171,9 @@ https://github.com/andremion/Music-Player
 http://www.jcodecraeer.com/plus/list.php?tid=16
  
 ##推荐学习网站
-Android official blog
+###Android official blog
 http://officialandroid.blogspot.com/
-Android official developers
+###Android official developers
 http://android-developers.blogspot.com/
 ##大量开源控件分享
 http://www.23code.com/
@@ -184,8 +184,8 @@ http://www.23code.com/
 ###任玉刚 http://blog.csdn.net/singwhatiwanna?viewmode=contents
 ###胡凯 http://hukai.me/
 
-###Stormzhang http://www.stormzhang.com/posts.html
-              http://stormzhang.com/
+###Stormzhang 1.http://www.stormzhang.com/posts.html
+              2.http://stormzhang.com/
 ###农民伯伯 http://www.cnblogs.com/over140/
 ###Trinea  http://www.trinea.cn/ 
 ###老罗 http://blog.csdn.net/luoshengyang/article/details/8923485
