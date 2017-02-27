@@ -43,7 +43,9 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 ###plugin插件：http://plugins.jetbrains.com/
 ###谷歌中国官方网站：
 1.https://developer.android.google.cn/index.html
+
 2.https://firebase.google.cn/
+
 3.https://developers.google.cn/
 ###谷歌开发者博客：http://developers.googleblog.cn/
 ###开源机器学习平台TensorFlow：https://www.tensorflow.org/
@@ -81,8 +83,7 @@ http://www.android-doc.com/
 http://appxcode.com/
 
 ###掘金：http://gold.xitu.io/    
-https://github.com/TommyLemon/Android-ZBLibrary
-github 
+https://github.com/TommyLemon/Android-ZBLibrarygithub 
 ###播放器源码：https://github.com/caohaoping/MusicPlayer
 https://github.com/VoLuong/Awesome-Linux-Software
 ###DMPlayer：https://github.com/dibakarece/DMPlayer
@@ -159,9 +160,11 @@ https://github.com/andremion/Music-Player
 ###友盟 http://www.umeng.com/push
 ###百度云推送 http://push.baidu.com/fc
 ###腾讯信鸽 http://xg.qq.com/xg
+
 ##Bug追踪
 ###Testin http://www.testin.cn/
 ###Bugly http://bugly.qq.com/
+
 ##开源项目
 ###Oschina客户端 http://git.oschina.net/oschina/android-app
 ###四次元微博客户端 https://github.com/qii/weiciyuan
