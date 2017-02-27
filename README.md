@@ -28,12 +28,9 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 ###程序员语言基础网站：http://www.runoob.com/
 ###Java源代码：   http://www.grepcode.com/
 ###Android源码： http://source.android.com/
-
-                http://androidxref.com/
-                
-                http://github.com/
-                
-                http://code.taobao.org/
+###                http://androidxref.com/                
+###                http://github.com/                
+###                http://code.taobao.org/
 ###解决问题的网站：stackoverflow.com
 ###jar包下载网站：http://central.sonatype.org/
 ###GitHub平面UI网站：https://github.com/wasabeef/awesome-android-ui
