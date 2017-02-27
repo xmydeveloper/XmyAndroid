@@ -86,7 +86,9 @@ http://appxcode.com/
 http://gold.xitu.io/ 
 
 https://github.com/TommyLemon/Android-ZBLibrarygithub 
-###播放器源码：https://github.com/caohaoping/MusicPlayer
+###播放器源码：
+https://github.com/caohaoping/MusicPlayer
+
 https://github.com/VoLuong/Awesome-Linux-Software
 ###DMPlayer：https://github.com/dibakarece/DMPlayer
 ###播放器：https://github.com/ryanhoo/StylishMusicPlayer
