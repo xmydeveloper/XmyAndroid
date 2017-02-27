@@ -1,6 +1,6 @@
 # XmyAndroid
 技术在于积累+创新+分享，成功在于努力+运气
-##android开源项目和框架
+##开源项目收集站
 1、Retrofit+okHttp+Rxjava 架构： [bilibili][1]
 
 ###软件展示
@@ -14,7 +14,8 @@
 
 5、https://github.com/ColorfulCat/AndroidGuide
 
-6.http://www.cnblogs.com/SharkBin/p/4422250.html
+##android开源项目和框架
+http://www.cnblogs.com/SharkBin/p/4422250.html
 
 
 
