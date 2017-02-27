@@ -27,9 +27,9 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 ###免费的编程中文书籍索引：https://github.com/justjavac/free-programming-books-zh_CN
 ###程序员语言基础网站：http://www.runoob.com/
 ###Java源代码：   http://www.grepcode.com/
-###Android源码： http://source.android.com/  
-                http://androidxref.com/  
-                http：//github.com 
+###Android源码： http://source.android.com/   
+                http://androidxref.com/   
+                http://github.com/  
                 http://code.taobao.org/
 ###解决问题的网站：stackoverflow.com
 ###jar包下载网站：http://central.sonatype.org/
@@ -38,8 +38,8 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 ###AndroidTool镜像：http://www.androiddevtools.cn/
 ###plugin插件：http://plugins.jetbrains.com/
 ###谷歌中国官方网站：https://developer.android.google.cn/index.html
-                              https://firebase.google.cn/
-                              https://developers.google.cn/
+                   https://firebase.google.cn/
+                   https://developers.google.cn/
 ###谷歌开发者博客：http://developers.googleblog.cn/
 ###开源机器学习平台TensorFlow：https://www.tensorflow.org/
 
@@ -69,19 +69,20 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 ###android机型/屏幕类型占有率：https://developer.android.com/about/dashboards/index.html
 
 
-###待鉴定网站：     
+##待鉴定网站：     
 
 http://www.android-doc.com/  
 
 http://appxcode.com/
 
-掘金：http://gold.xitu.io/    
+###掘金：http://gold.xitu.io/    
 https://github.com/TommyLemon/Android-ZBLibrary
-github 播放器源码：https://github.com/caohaoping/MusicPlayer
+github 
+###播放器源码：https://github.com/caohaoping/MusicPlayer
 https://github.com/VoLuong/Awesome-Linux-Software
-DMPlayer：https://github.com/dibakarece/DMPlayer
-播放器：https://github.com/ryanhoo/StylishMusicPlayer
-BottomBar：https://github.com/roughike/BottomBar
+###DMPlayer：https://github.com/dibakarece/DMPlayer
+###播放器：https://github.com/ryanhoo/StylishMusicPlayer
+###BottomBar：https://github.com/roughike/BottomBar
 https://github.com/Cleveroad/slidingtutorial-android
 https://github.com/andremion/Music-Player
 
@@ -109,61 +110,61 @@ https://github.com/andremion/Music-Player
 ###图灵机器人：http://www.tuling123.com/
 
 ##网络
-Volley https://android.googlesource.com/platform/frameworks/volley/
-android-async-http https://github.com/loopj/android-async-http 
-Retrofit  https://github.com/square/retrofit
-Okhttp https://github.com/square/okhttp
+###Volley https://android.googlesource.com/platform/frameworks/volley/
+###android-async-http https://github.com/loopj/android-async-http 
+###Retrofit  https://github.com/square/retrofit
+###Okhttp https://github.com/square/okhttp
  
 ##图像
-UIL https://github.com/nostra13/Android-Universal-Image-Loader
-Fresco https://github.com/facebook/fresco
-Glide https://github.com/bumptech/glide
-Picasso https://github.com/square/picasso
+###UIL https://github.com/nostra13/Android-Universal-Image-Loader
+###Fresco https://github.com/facebook/fresco
+###Glide https://github.com/bumptech/glide
+###Picasso https://github.com/square/picasso
 ##依赖注入
-Butterknife  https://github.com/JakeWharton/butterknife
-Dagger      https://github.com/square/dagger
+###Butterknife  https://github.com/JakeWharton/butterknife
+###Dagger      https://github.com/square/dagger
 ##数据库
-greenDAO  https://github.com/greenrobot/greenDAO
-ormlite http://ormlite.com/
+###greenDAO  https://github.com/greenrobot/greenDAO
+###ormlite http://ormlite.com/
 ##动画库
-NineOldAndroids https://github.com/JakeWharton/NineOldAndroids
+###NineOldAndroids https://github.com/JakeWharton/NineOldAndroids
 ##多媒体
-cocos2d-x https://github.com/cocos2d/cocos2d-x
-ffmpeg http://www.ffmpeg.org/
+###cocos2d-x https://github.com/cocos2d/cocos2d-x
+###ffmpeg http://www.ffmpeg.org/
 ##事件总线
-RxAndroid https://github.com/ReactiveX/RxAndroid
-RxJava https://github.com/ReactiveX/RxJava
-EventBus https://github.com/greenrobot/EventBus
+###RxAndroid https://github.com/ReactiveX/RxAndroid
+###RxJava https://github.com/ReactiveX/RxJava
+###EventBus https://github.com/greenrobot/EventBus
 ##第三方分享
-Mob http://www.mob.com/
-友盟 http://www.umeng.com/social
+###Mob http://www.mob.com/
+###友盟 http://www.umeng.com/social
 ##内存泄漏监测
-LeakCanary https://github.com/square/leakcanary
+###LeakCanary https://github.com/square/leakcanary
 ##数据统计
-友盟  http://www.umeng.com/analytics
+###友盟  http://www.umeng.com/analytics
 
-百度统计 http://mtj.baidu.com/web/welcome/login
+###百度统计 http://mtj.baidu.com/web/welcome/login
 
 ##即时通讯
-环信：http://www.easemob.com/
+###环信：http://www.easemob.com/
 
 
 ##消息推送
-个推 http://www.getui.com/
-友盟 http://www.umeng.com/push
-百度云推送 http://push.baidu.com/fc
-腾讯信鸽 http://xg.qq.com/xg
+###个推 http://www.getui.com/
+###友盟 http://www.umeng.com/push
+###百度云推送 http://push.baidu.com/fc
+###腾讯信鸽 http://xg.qq.com/xg
 ##Bug追踪
-Testin http://www.testin.cn/
-Bugly http://bugly.qq.com/
+###Testin http://www.testin.cn/
+###Bugly http://bugly.qq.com/
 ##开源项目
-Oschina客户端 http://git.oschina.net/oschina/android-app
-四次元微博客户端 https://github.com/qii/weiciyuan
-Google I/O 2015客户端 https://github.com/google/iosched
-v2ex-daily客户端 https://github.com/kyze8439690/v2ex-daily-android
-ZhihuPaper https://github.com/cundong/ZhihuPaper
-GitHub客户端 https://github.com/pockethub/PocketHub
-9GAG https://github.com/stormzhang/9GAG
+###Oschina客户端 http://git.oschina.net/oschina/android-app
+###四次元微博客户端 https://github.com/qii/weiciyuan
+###Google I/O 2015客户端 https://github.com/google/iosched
+###v2ex-daily客户端 https://github.com/kyze8439690/v2ex-daily-android
+###ZhihuPaper https://github.com/cundong/ZhihuPaper
+###GitHub客户端 https://github.com/pockethub/PocketHub
+###9GAG https://github.com/stormzhang/9GAG
  
 泡在网上的日子
 (推荐!!!大量翻译后的高质量英文技术文档)
