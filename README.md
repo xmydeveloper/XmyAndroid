@@ -27,10 +27,11 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 ###免费的编程中文书籍索引：https://github.com/justjavac/free-programming-books-zh_CN
 ###程序员语言基础网站：http://www.runoob.com/
 ###Java源代码：   http://www.grepcode.com/
-###Android源码：1、http://source.android.com/
-               2、http://androidxref.com/                
-               3、http://github.com/                
-               4、http://code.taobao.org/
+###Android源码：
+1、http://source.android.com/
+2、http://androidxref.com/                
+3、http://github.com/                
+4、http://code.taobao.org/
 ###解决问题的网站：stackoverflow.com
 ###jar包下载网站：http://central.sonatype.org/
 ###GitHub平面UI网站：https://github.com/wasabeef/awesome-android-ui
