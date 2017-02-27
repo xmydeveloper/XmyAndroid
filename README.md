@@ -1,10 +1,22 @@
 # XmyAndroid
 技术在于积累+创新+分享，成功在于努力+运气
-#线下最流行的开源项目
+##开源项目收集站
 1、Retrofit+okHttp+Rxjava 架构： [bilibili][1]
 
-##软件展示
+###软件展示
 ![][2]
+
+2、https://github.com/Trinea/android-open-project
+3、http://colobu.com/2014/08/15/android-components-collection/
+4、http://android-arsenal.com/free
+5、https://github.com/ColorfulCat/AndroidGuide
+
+##android开源项目和框架
+http://www.cnblogs.com/SharkBin/p/4422250.html
+
+
+
+
 
 
 ##对学习有帮助的网站：
@@ -153,43 +165,35 @@ http://android-developers.blogspot.com/
 http://www.23code.com/
  
 ##博客推荐
-郭霖 http://blog.csdn.net/guolin_blog
-鸿洋 http://blog.csdn.net/lmj623565791?viewmode=contents
-任玉刚 http://blog.csdn.net/singwhatiwanna?viewmode=contents
-胡凯 http://hukai.me/
+###郭霖 http://blog.csdn.net/guolin_blog
+###鸿洋 http://blog.csdn.net/lmj623565791?viewmode=contents
+###任玉刚 http://blog.csdn.net/singwhatiwanna?viewmode=contents
+###胡凯 http://hukai.me/
 
-Stormzhang http://www.stormzhang.com/posts.html
-http://stormzhang.com/
-农民伯伯 http://www.cnblogs.com/over140/
-Trinea  http://www.trinea.cn/ 
-老罗 http://blog.csdn.net/luoshengyang/article/details/8923485
-优秀界面设计 http://androidniceties.tumblr.com/
-微博
-鸿洋 http://www.weibo.com/u/3165018720
-胡凯 http://www.weibo.com/kesenhoo
-Trinea http://www.weibo.com/trinea
-于卫国 http://www.weibo.com/weiguo58
-代码家 http://www.weibo.com/daimajia
-大头鬼 http://www.weibo.com/brucefromsdu
-廖祜秋 http://www.weibo.com/liaohuqiu
-开发技术前线 http://www.weibo.com/u/5589212242
-泡在网上编代码 http://www.weibo.com/u/2711441293
+###Stormzhang http://www.stormzhang.com/posts.html
+###http://stormzhang.com/
+###农民伯伯 http://www.cnblogs.com/over140/
+###Trinea  http://www.trinea.cn/ 
+###老罗 http://blog.csdn.net/luoshengyang/article/details/8923485
+###优秀界面设计 http://androidniceties.tumblr.com/
 
-GitHubDaily http://www.weibo.com/GitHubDaily
+###鸿洋 http://www.weibo.com/u/3165018720
+###胡凯 http://www.weibo.com/kesenhoo
+###Trinea http://www.weibo.com/trinea
+###于卫国 http://www.weibo.com/weiguo58
+###代码家 http://www.weibo.com/daimajia
+###大头鬼 http://www.weibo.com/brucefromsdu
+###廖祜秋 http://www.weibo.com/liaohuqiu
+###开发技术前线 http://www.weibo.com/u/5589212242
+###泡在网上编代码 http://www.weibo.com/u/2711441293
 
-
+###GitHubDaily http://www.weibo.com/GitHubDaily
 
 
 
-##开源项目收集站
 
-https://github.com/Trinea/android-open-project
-http://colobu.com/2014/08/15/android-components-collection/
-http://android-arsenal.com/free
-https://github.com/ColorfulCat/AndroidGuide
 
-##android开源项目和框架
-http://www.cnblogs.com/SharkBin/p/4422250.html
+
 
 
 
