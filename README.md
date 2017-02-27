@@ -82,7 +82,9 @@ http://www.android-doc.com/
 
 http://appxcode.com/
 
-###掘金：http://gold.xitu.io/    
+###掘金：
+http://gold.xitu.io/ 
+
 https://github.com/TommyLemon/Android-ZBLibrarygithub 
 ###播放器源码：https://github.com/caohaoping/MusicPlayer
 https://github.com/VoLuong/Awesome-Linux-Software
