@@ -4,7 +4,7 @@
 1、Retrofit+okHttp+Rxjava 架构： [bilibili][1]
 
 ###软件展示
-![](https://raw.githubusercontent.com/HotBitmapGG/bilibili-android-client/master-x/art/03.png)
+![][2]
 
 
  
@@ -33,7 +33,7 @@
 
 
 [1]:https://github.com/HotBitmapGG/bilibili-android-client
-
+[2]:https://github.com/xmydeveloper/XmyAndroid/blob/master/bilibili.png
 
 
 
