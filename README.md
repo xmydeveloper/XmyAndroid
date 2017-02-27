@@ -7,8 +7,11 @@
 ![][2]
 
 2、https://github.com/Trinea/android-open-project
+
 3、http://colobu.com/2014/08/15/android-components-collection/
+
 4、http://android-arsenal.com/free
+
 5、https://github.com/ColorfulCat/AndroidGuide
 
 ##android开源项目和框架
@@ -63,17 +66,21 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 ###android机型/屏幕类型占有率：https://developer.android.com/about/dashboards/index.html
 
 
-###待鉴定网站：          http://www.android-doc.com/  
-                              http://appxcode.com/
-                    掘金：http://gold.xitu.io/    
-                              https://github.com/TommyLemon/Android-ZBLibrary
-                    github 播放器源码：https://github.com/caohaoping/MusicPlayer
-                              https://github.com/VoLuong/Awesome-Linux-Software
-                     DMPlayer：https://github.com/dibakarece/DMPlayer
-                    播放器：https://github.com/ryanhoo/StylishMusicPlayer
-                    BottomBar：https://github.com/roughike/BottomBar
-                    https://github.com/Cleveroad/slidingtutorial-android
-                    https://github.com/andremion/Music-Player
+###待鉴定网站：         
+http://www.android-doc.com/  
+http://appxcode.com/
+掘金：http://gold.xitu.io/    
+https://github.com/TommyLemon/Android-ZBLibrary
+github 播放器源码：https://github.com/caohaoping/MusicPlayer
+https://github.com/VoLuong/Awesome-Linux-Software
+DMPlayer：https://github.com/dibakarece/DMPlayer
+播放器：https://github.com/ryanhoo/StylishMusicPlayer
+BottomBar：https://github.com/roughike/BottomBar
+https://github.com/Cleveroad/slidingtutorial-android
+https://github.com/andremion/Music-Player
+
+
+
 ###站长工具：http://tool.chinaz.com/
 
 ###极客导航：http://www.jikedaohang.com/
@@ -171,7 +178,7 @@ http://www.23code.com/
 ###胡凯 http://hukai.me/
 
 ###Stormzhang http://www.stormzhang.com/posts.html
-###http://stormzhang.com/
+              http://stormzhang.com/
 ###农民伯伯 http://www.cnblogs.com/over140/
 ###Trinea  http://www.trinea.cn/ 
 ###老罗 http://blog.csdn.net/luoshengyang/article/details/8923485
