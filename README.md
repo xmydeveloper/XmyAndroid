@@ -28,22 +28,23 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 ###程序员语言基础网站：http://www.runoob.com/
 ###Java源代码：   http://www.grepcode.com/
 ###Android源码：
-1、http://source.android.com/
+1.http://source.android.com/
 
-2、http://androidxref.com/
+2.http://androidxref.com/
 
-3、http://github.com/
+3.http://github.com/
 
-4、http://code.taobao.org/
+4.http://code.taobao.org/
 ###解决问题的网站：stackoverflow.com
 ###jar包下载网站：http://central.sonatype.org/
 ###GitHub平面UI网站：https://github.com/wasabeef/awesome-android-ui
 ###shareSDK：http://www.mob.com/#/
 ###AndroidTool镜像：http://www.androiddevtools.cn/
 ###plugin插件：http://plugins.jetbrains.com/
-###谷歌中国官方网站：1.https://developer.android.google.cn/index.html
-                  2.https://firebase.google.cn/
-                  3.https://developers.google.cn/
+###谷歌中国官方网站：
+1.https://developer.android.google.cn/index.html
+2.https://firebase.google.cn/
+3.https://developers.google.cn/
 ###谷歌开发者博客：http://developers.googleblog.cn/
 ###开源机器学习平台TensorFlow：https://www.tensorflow.org/
 
