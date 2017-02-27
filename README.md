@@ -35,7 +35,7 @@ http://www.cnblogs.com/SharkBin/p/4422250.html
 3.http://github.com/
 
 4.http://code.taobao.org/
-###解决问题的网站：stackoverflow.com
+###解决问题的网站：http://stackoverflow.com
 ###jar包下载网站：http://central.sonatype.org/
 ###GitHub平面UI网站：https://github.com/wasabeef/awesome-android-ui
 ###shareSDK：http://www.mob.com/#/
