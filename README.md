@@ -174,7 +174,7 @@ https://github.com/andremion/Music-Player
 ###GitHub客户端 https://github.com/pockethub/PocketHub
 ###9GAG https://github.com/stormzhang/9GAG
  
-泡在网上的日子
+##泡在网上的日子
 (推荐!!!大量翻译后的高质量英文技术文档)
 http://www.jcodecraeer.com/plus/list.php?tid=16
  
@@ -192,8 +192,9 @@ http://www.23code.com/
 ###任玉刚 http://blog.csdn.net/singwhatiwanna?viewmode=contents
 ###胡凯 http://hukai.me/
 
-###Stormzhang 1.http://www.stormzhang.com/posts.html
-              2.http://stormzhang.com/
+###Stormzhang 
+1.http://www.stormzhang.com/posts.html
+2.http://stormzhang.com/
 ###农民伯伯 http://www.cnblogs.com/over140/
 ###Trinea  http://www.trinea.cn/ 
 ###老罗 http://blog.csdn.net/luoshengyang/article/details/8923485
