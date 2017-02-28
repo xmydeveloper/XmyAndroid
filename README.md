@@ -227,7 +227,7 @@ http://www.23code.com/
 
 
 [1]:https://github.com/HotBitmapGG/bilibili-android-client
-[2]:https://github.com/xmydeveloper/XmyAndroid/blob/master/bilibili.png
+[2]:https://github.com/xmydeveloper/XmyAndroid/blob/master/bilibili.gif
 
 
 
